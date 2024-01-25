@@ -19,3 +19,8 @@ Product 1,4
 ![Product1](https://github.com/Pandeee12/Week01_KTMP_20102201_NguyenQuocDuy/assets/144768405/8cb464dc-52af-4d85-a33b-6b506951733f)
 
 ![Product4](https://github.com/Pandeee12/Week01_KTMP_20102201_NguyenQuocDuy/assets/144768405/92982913-084d-4cab-a592-245235170900)
+
+
+
+
+https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy.git
